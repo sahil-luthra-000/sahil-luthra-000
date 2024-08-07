@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-luthra-000" alt="sahil-luthra-000" /></a> </p>
-
-- 🌱 I’m currently learning **DSA,**
-
-- 👨‍💻 All of my projects are available at [https://sahil-luthra-000.github.io/Personal-Portfolio/](https://sahil-luthra-000.github.io/Personal-Portfolio/)
+- 🌱 I’m currently learning **DSA**
 
 - 📫 How to reach me **Sahilluthra495@gmail.com**
 
