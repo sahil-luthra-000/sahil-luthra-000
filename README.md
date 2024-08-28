@@ -88,7 +88,12 @@
   </a>
 </p>
 
----
+## 🏆 Certifications & Badges
+
+### Postman API Fundamentals Badge
+
+[![Postman Expert](C:\Users\sahil\Downloads\Postman - Postman API Fundamentals Student Expert - 2024-08-19 (3).png)](https://postman.com/certification-link)
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-luthra-000&show_icons=true&locale=en&layout=compact" alt="sahil-luthra-000" />
